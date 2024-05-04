@@ -1,0 +1,22 @@
+body{
+  background-color: antiquewhite;
+}
+h2 {
+  color: blueviolet;
+}
+p{
+  font-size: large;
+}
+
+#im1   {
+  width: 50%;
+}
+nav {
+  font-size: 40px;
+  background-color: coral;
+}
+a {
+  color:aquamarine;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: blue;
+}

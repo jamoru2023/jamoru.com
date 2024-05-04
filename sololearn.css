@@ -1,0 +1,44 @@
+button {
+    background-color: #5e4caf;
+    color: white;  
+    font-size: 20px;   
+}
+.but1 {
+    font-size:100% ;
+}
+p {
+    color:blue;
+
+}
+#p2 {
+    color: green;
+}
+h1 {
+    font-size: big;
+    color:red;
+    text-align:center;
+}
+nav a {
+    color: aqua;
+    background-color: blueviolet;
+}
+.alerta {
+    color: blue;
+    background-color: burlywood;
+}
+#btcc {
+    color:blue;
+}
+#par {
+    background-color: antiquewhite;
+    color: black;
+    width: 50% ;
+    
+}
+#color {
+    background-color: bisque;
+}
+#bc1 , #bc2 {
+    background-color: floralwhite;
+    color: blue;
+}

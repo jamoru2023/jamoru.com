@@ -1,0 +1,17 @@
+p {
+  background-color: lightblue;
+}
+body{
+  background-color: antiquewhite;
+}
+h2 {
+  color: blueviolet;
+}
+p{
+  font-size: large;
+}
+a {
+  color:aquamarine;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: blue;
+}
